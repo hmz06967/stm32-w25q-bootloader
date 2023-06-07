@@ -1,7 +1,0 @@
-usbd_dfu_qspi_flash.c:76:10:QSPI_If_Init_FS	1
-usbd_dfu_qspi_flash.c:85:10:QSPI_If_DeInit_FS	1
-usbd_dfu_qspi_flash.c:95:10:QSPI_If_Erase_FS	2
-usbd_dfu_qspi_flash.c:123:6:erase_sector	2
-usbd_dfu_qspi_flash.c:133:10:QSPI_If_Write_FS	3
-usbd_dfu_qspi_flash.c:167:10:QSPI_If_Read_FS	3
-usbd_dfu_qspi_flash.c:187:10:QSPI_If_GetStatus_FS	2
